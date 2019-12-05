@@ -1,0 +1,9 @@
+Do we need a programmer?
+Amazon Links
+Sparkfun Pocket: amazon.com/Sparkfun-Electronics-LYSB01BHHH714-ELECTRNCS-Pocket-Programmer/dp/B004G54E9I/ref=pd_cp_147_1/137-7701830-9910358?_encoding=UTF8&pd_rd_i=B004G54E9I&pd_rd_r=e778dbf9-1f2a-4aaa-b2dd-cb7fd92ea2ae&pd_rd_w=GEdeQ&pd_rd_wg=Soc42&pf_rd_p=0e5324e1-c848-4872-bbd5-5be6baedf80e&pf_rd_r=28RAF0XP5AZMMYGWEMXM&psc=1&refRID=28RAF0XP5AZMMYGWEMXM
+TinySine: https://www.amazon.com/TinySine-USBtinyISP-AVR-Programmer-Arduino/dp/B00N8EVQ30/ref=pd_bxgy_147_2/137-7701830-9910358?_encoding=UTF8&pd_rd_i=B00N8EVQ30&pd_rd_r=8cc57eb8-ae0d-4223-b7bc-54f2ebecff22&pd_rd_w=xSDk2&pd_rd_wg=C5qxS&pf_rd_p=09627863-9889-4290-b90a-5e9f86682449&pf_rd_r=N59WRW8V13Z1RTXQHSBM&psc=1&refRID=N59WRW8V13Z1RTXQHSBM
+Atmel: https://www.amazon.com/Compatible-System-Programmer-interface-XYGStudy/dp/B00C7VV6E4
+
+Do we need a remote?
+
+Do we need a battery?
